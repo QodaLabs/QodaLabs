@@ -58,7 +58,7 @@ Construir um acervo aberto e técnico de **estudos quantitativos**, **análises 
 ## 📬 Contato
 
 Se quiser trocar ideias ou colaborar:  
-📧 **[seu-email@exemplo.com]**  
+📧 **[labsqoda@gmail.com]**  
 🌐 **[https://qodalabs.com](https://qodalabs.com)**
 
 ---
